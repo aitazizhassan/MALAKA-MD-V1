@@ -9,7 +9,7 @@
     "SESSION_ID": {
             "description": "Type the Session-ID you got from scaning QR",
             "required": true,
-            "value": "put session id here"
+            "value": "MALAKA-MD~7Rp3lJQI#HxTX1zKB381XLU8DYmfmN_euysUnFjDYKlCacWlUg4s"
         }
     },
          "buildpacks": [
